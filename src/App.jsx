@@ -5,7 +5,7 @@ import Router from './router'
 import appStore from './utils/appStore'
 
 function App() {
-
+  console.log('app');
 
   return (
     <>
